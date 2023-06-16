@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fe-hackathon/static/css/main.073c9b0a.css",
+    "main.js": "/fe-hackathon/static/js/main.01e3f5d7.js",
+    "static/js/787.28cb0dcd.chunk.js": "/fe-hackathon/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/fe-hackathon/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/fe-hackathon/index.html",
+    "main.073c9b0a.css.map": "/fe-hackathon/static/css/main.073c9b0a.css.map",
+    "main.01e3f5d7.js.map": "/fe-hackathon/static/js/main.01e3f5d7.js.map",
+    "787.28cb0dcd.chunk.js.map": "/fe-hackathon/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.01e3f5d7.js"
+  ]
+}
